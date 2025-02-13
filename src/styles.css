@@ -79,7 +79,7 @@ button:hover {
   .default-container {
     background: #141a20;
     padding: 40px 20px;
-    min-height: 94vh;
+    min-height: 104vh;
     overflow-y: auto;
     display: flex;
     justify-content: center;
